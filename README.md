@@ -1,4 +1,4 @@
-# Voting-machin-using-verilog
+# Voting-machine-using-verilog
 Designing a voting machine for three candidates using Verilog involves creating a digital circuit that can count and display the votes cast for each candidate. Here's a brief overview of how you might approach this:
 
 Inputs:
